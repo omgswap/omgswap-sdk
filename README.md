@@ -1,4 +1,9 @@
-                                            
+# OMGSwap SDK
+
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![npm version](https://img.shields.io/npm/v/@omgswap/sdk/latest.svg)](https://www.npmjs.com/package/@omgswap/sdk/v/latest)    
+    
+    
                     .=,.             _i.                    
                     -nos.          .%nv`                    
                      -nvv,        _nnv'                     
@@ -51,12 +56,7 @@
                       -{nvnvnvnvvvvv}'                      
                         -^<IvvvvI>^`                        
                                             
-# OMGSwap SDK
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Actions Status](https://github.com/omgswap/omgswap-sdk/workflows/CI/badge.svg)](https://github.com/omgswap/omgswap-sdk)
-[![npm version](https://img.shields.io/npm/v/@omgswap/sdk/latest.svg)](https://www.npmjs.com/package/@omgswap/sdk/v/latest)
-[![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@omgswap/sdk/latest.svg)](https://bundlephobia.com/result?p=@omgswap/sdk@latest)
 
 In-depth documentation on this SDK is available soon at [omgswap.in](https://omgswap.in/).
 
