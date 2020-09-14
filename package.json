@@ -19,7 +19,11 @@
     "build": "tsdx build",
     "start": "tsdx watch",
     "test": "tsdx test",
-    "prepublishOnly": "tsdx build"
+    "prepublishOnly": "tsdx build",
+    "rename": "renamer --find '/(\\-)(\\d+\\.)?(\\d+\\.)?(\\*|\\d+)/' --replace '' './*.tgz'",
+    "pack": "npm pack",
+    "pack:rename": "npm-run-all --sequential pack rename",
+    "release": "standard-version"
   },
   "dependencies": {
     "@uniswap/v2-core": "^1.0.0",
